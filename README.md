@@ -1,7 +1,7 @@
 # 🏠 Moto – Ev Hizmetleri Uygulaması UI Kiti (Flutter)
 
 **Moto**, modern **Material 3** tasarım anlayışıyla geliştirilmiş profesyonel bir **Flutter UI kiti**dir.  
-Ev hizmetleri, bakım, temizlik veya tamir hizmetleri sunan uygulamalar için oluşturulmuştur (örnek: آچاره benzeri platformlar).  
+Ev hizmetleri, bakım, temizlik veya tamir hizmetleri sunan uygulamalar için oluşturulmuştur.
 
 Hazır ekranları, modüler yapısı, güçlü navigasyon sistemi ve yeniden kullanılabilir bileşenleriyle;  
 hem **hızlı prototipleme** hem de **üretim seviyesinde proje temeli** için kullanılabilir.
